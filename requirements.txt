@@ -1,0 +1,9 @@
+face_recognition==1.3.0
+keras==2.15.0
+librosa==0.10.1
+matplotlib==3.7.1
+moviepy==1.0.3
+numpy==1.25.2
+opencv_python==4.9.0.80
+tensorflow==2.15.0
+tensorflow_intel==2.15.0

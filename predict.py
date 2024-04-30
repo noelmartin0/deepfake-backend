@@ -164,7 +164,6 @@ def multimodal_deepfake_detection(video_path, audio_path):
 
 
 
-# Example usage
 def prediction(video_path):
     audio_path = "output_audio.wav"
     video_label, audio_label = multimodal_deepfake_detection(video_path, audio_path)
